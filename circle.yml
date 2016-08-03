@@ -2,4 +2,4 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: code2040-circleci
+      appname: foo-bar-123
